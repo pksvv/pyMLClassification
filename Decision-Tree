@@ -1,0 +1,54 @@
+Nimmi - avid book reader - library 
+
+Created a list of books which she has read in the past along with liked or not - Dataset - 1000 books
+
+Questions - Arranged q in such a way that the objective type are first and detailed q are further down
+who is author
+when was book published
+what is the genre of book
+pages in book
+Vishalq1
+Vishalq2
+...
+...
+Vishalqn
+
+Splitting attributes - features - guide us where to split
+
+Vishal - Algorithm - Decision Tree - Classifier
+
+Problem Statement : Can you please help me find whether I will like the books on not?
+
+Type of Problem : Classification
+
+Pattern / Question - Answer Model
+
+new books in library - nimmi can use that model to predict whether he will like the book or not
+
+1. Historical Labelled Dataset
+
+2. Questions - Attribute Selection Measures
+
+3. Algorithm - DTC
+
+4. Model
+
+Problem - Overfit
+
+Nimmi & Vishal called more friends
+
+Tore list into slips of 100 books each and then put those 10 lists into bag
+
+Pick a slip ask Questions and put it back into bag
+
+Iteration # 1
+V - slip # 1
+F1 - slip # 2
+
+Iteration # 2
+V - slip # 1
+F1 - slip # 2
+
+Iteration # 3
+V - slip # 2
+F1 - slip # 1
