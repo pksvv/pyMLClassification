@@ -35,7 +35,7 @@ new books in library - nimmi can use that model to predict whether he will like 
 
 Problem - Overfit
 
-Nimmi & Vishal called more friends
+Nimmi & Vishal called 9 more friends, so 10 friends in total
 
 Tore list into slips of 100 books each and then put those 10 lists into bag
 
@@ -52,3 +52,11 @@ F1 - slip # 2
 Iteration # 3
 V - slip # 2
 F1 - slip # 1
+
+Sampling with Replacement - Bootstrap Sampling - Bootstrapping
+
+10 friends - 10 models - 10 iterations - All were working parallel
+
+Aggregation of results of all those models - averaging - voting
+
+Bootstrapping + Aggregation = Bagging Algorithms
