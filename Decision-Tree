@@ -60,3 +60,9 @@ Sampling with Replacement - Bootstrap Sampling - Bootstrapping
 Aggregation of results of all those models - averaging - voting
 
 Bootstrapping + Aggregation = Bagging Algorithms
+
+Order of questions is same, no randomness in questions
+
+Previously you were introducing randomness in your data by Bootstrapping
+Now, you are introducing randomness in your questions so a large group of friends asking questions randomly is going to result in a Random Forest Model. Analogy to Random Forest.
+
